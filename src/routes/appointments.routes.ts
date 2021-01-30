@@ -1,5 +1,5 @@
 /* eslint-disable camelcase */
-import { request, Router } from 'express';
+import { Router } from 'express';
 import { getCustomRepository } from 'typeorm';
 import { parseISO } from 'date-fns';
 
